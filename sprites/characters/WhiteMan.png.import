@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WhiteMan-Sheet.png-0c04a28d534dd500257d56d2bbc9d00b.stex"
+path="res://.import/WhiteMan.png-20b1c5a37a285ea014788824834e00b5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/characters/WhiteMan-Sheet.png"
-dest_files=[ "res://.import/WhiteMan-Sheet.png-0c04a28d534dd500257d56d2bbc9d00b.stex" ]
+source_file="res://sprites/characters/WhiteMan.png"
+dest_files=[ "res://.import/WhiteMan.png-20b1c5a37a285ea014788824834e00b5.stex" ]
 
 [params]
 
