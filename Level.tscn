@@ -9,9 +9,9 @@ position = Vector2( 29, 25 )
 
 [node name="Label" type="Label" parent="."]
 margin_left = 99.0
-margin_top = 66.0
-margin_right = 148.0
-margin_bottom = 80.0
+margin_top = 65.0
+margin_right = 243.0
+margin_bottom = 97.0
 text = "PRESS R
 ALL NIGHT ALL MIGHT"
 __meta__ = {
